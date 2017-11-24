@@ -9,3 +9,7 @@ sdf
 sdf
 sdv
 sdv
+reg
+qerg
+rg
+gr
